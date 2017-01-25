@@ -1,0 +1,7 @@
+
+Bsquid:S1170"!Make this final field static too.(„ë›øùÿÿÿÿ8éÑ“Š+
+¬%squid:RedundantThrowsDeclarationCheck"qRemove the declaration of thrown exception 'org.seckill.exception.SeckillException' which is a runtime exception.(÷Ï·¢ûÿÿÿÿ8å¬¢‰+
+• squid:MethodCyclomaticComplexity"dThe Cyclomatic Complexity of this method "executeSeckill" is 15 which is greater than 10 authorized.(Ö®ÔÉ8Ğ¾ÈŠ+
+Ó%squid:RedundantThrowsDeclarationCheck"—Remove the declaration of thrown exception 'org.seckill.exception.RepeatKillException' which is a subclass of 'org.seckill.exception.SeckillException'.(÷Ï·¢ûÿÿÿÿ8›ŸŞ¤+
+|squid:S1488"[Immediately return this expression instead of assigning it to the temporary variable "md5".(—…®Òûÿÿÿÿ8äœŠ+
+Õ%squid:RedundantThrowsDeclarationCheck"™Remove the declaration of thrown exception 'org.seckill.exception.SeckillCloseException' which is a subclass of 'org.seckill.exception.SeckillException'.(÷Ï·¢ûÿÿÿÿ8›ŸŞ¤+

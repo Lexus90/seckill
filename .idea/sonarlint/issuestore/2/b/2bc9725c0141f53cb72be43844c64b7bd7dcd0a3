@@ -1,0 +1,4 @@
+
+Œ%squid:RedundantThrowsDeclarationCheck"óRemove the declaration of thrown exception 'org.seckill.exception.RepeatKillException' which is a subclass of 'org.seckill.exception.SeckillException'.(Ü‘‡“8õüﬁ§ù+
+ß%squid:RedundantThrowsDeclarationCheck"qRemove the declaration of thrown exception 'org.seckill.exception.SeckillException' which is a runtime exception.(Ü‘‡“8πÒèâù+
+–%squid:RedundantThrowsDeclarationCheck"ôRemove the declaration of thrown exception 'org.seckill.exception.SeckillCloseException' which is a subclass of 'org.seckill.exception.SeckillException'.(Ü‘‡“8õüﬁ§ù+
