@@ -60,8 +60,8 @@
       <file leaf-file-name="seckill.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/seckill.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.72639227">
-              <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+            <state vertical-scroll-proportion="0.7990315">
+              <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -1336,7 +1336,7 @@
       <workItem from="1485138126612" duration="4215000" />
       <workItem from="1485223977479" duration="16139000" />
       <workItem from="1485310324910" duration="5703000" />
-      <workItem from="1485332527523" duration="5019000" />
+      <workItem from="1485332527523" duration="5103000" />
     </task>
     <servers />
   </component>
@@ -1373,7 +1373,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47729000" />
+    <option name="totallyTimeSpent" value="47813000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="775" y="23" width="665" height="841" extended-state="0" />
@@ -1890,8 +1890,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/seckill.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.72639227">
-          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        <state vertical-scroll-proportion="0.7990315">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
           <folding />
         </state>
       </provider>

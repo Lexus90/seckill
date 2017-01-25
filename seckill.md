@@ -16,7 +16,7 @@
 		
 3. update remote repository 
 
-		1. git add some file
+		1. git add some file / git add .
 		2. git commit -m "describe"
 		3. git push
 		
